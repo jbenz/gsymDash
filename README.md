@@ -1,4 +1,16 @@
-# GYSM - geth + prysm monitoring dashboard
+```
+ @jbenz
+```
+
+> [!NOTE]
+> Requires npm, nodejs.
+
+> [!NOTE]
+> Optional: docker, docker-compose.
+> 
+
+ GYSM - **G**ETH + PR**YSM** monitoring dashboard
+
 
 ## 🚀 Fastest Way to Deploy (2 minutes)
 - Step 1: Download and run the installer
