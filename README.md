@@ -2,6 +2,13 @@
  @jbenz
 ```
 
+# GYSM - **G**ETH + PR**YSM** monitoring dashboard
+
+| <img alt="image" src="https://github.com/user-attachments/assets/6071bc84-bdde-45b1-9f9a-a7c37436b1fa" /> | <img alt="image" src="https://github.com/user-attachments/assets/7214c88b-20f7-4ad5-878b-601b9470936b" /> |
+| --- | --- |
+
+
+
 > [!NOTE]
 > Requires npm, nodejs.
 
@@ -9,12 +16,10 @@
 > Optional: docker, docker-compose.
 > 
 
- GYSM - **G**ETH + PR**YSM** monitoring dashboard
 
 
 ## 🚀 Fastest Way to Deploy (2 minutes)
 - Step 1: Download and run the installer
-- Get the install.sh file and run it
 ```
 bash install.sh
 ```
@@ -53,5 +58,4 @@ http://localhost:3000
 - ✅ All configuration files
 - ✅ Complete documentation
 - ✅ Real-time Geth + Prysm monitoring
-- ✅ Production-ready code
 
