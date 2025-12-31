@@ -297,7 +297,7 @@ Dashboard: http://localhost:3000
 
 ```bash
 export GETH_SERVICE=geth
-export PRYSM_SERVICE=prysm-beacon
+export PRYSM_SERVICE=prysm
 npm start
 ```
 
