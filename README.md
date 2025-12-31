@@ -50,6 +50,10 @@ docker-compose up -d
 ```
 http://localhost:3000
 ```
+or your machine ip (ie:)
+```
+http://10.0.0.2:3000
+```
 
 # 📋 What You Get
 - ✅ Complete backend API (Node.js + Express)
